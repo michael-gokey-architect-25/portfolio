@@ -68,3 +68,53 @@ Niche audience interested in serious games and simulation. You can differentiate
 **Background knowledge:** Keep topics 7-9 in your toolkit for panel discussions or specialized tracks, but don't prioritize unless they align with your unique experience.
 
 **Pro tip:** The best talks combine multiple topics—like "Using RL to create adaptive NPCs" (topics 1, 3, 5) or "ML pipelines for accessible procedural content" (topics 2, 4, 7). Look for these intersections in your experience.
+
+
+-------------------
+
+https://easychair.org/cfp/TAIG2026
+
+TAIG 2026: Transformer: AI and Games 2026
+
+KSU Center,  Kennesaw, GA, United States, February 21-22, 2026
+
+Perspectives on AI and Play: When Research and Practice Meet
+
+The Center for Interactive Media at Kennesaw State University and the Georgia Game Developers Association invite submissions to the second edition of Transformer: AI and Games, a forum dedicated to exploring the intersections of artificial intelligence, game design, and interactive media.
+
+This year’s theme, Perspectives on AI and Play: When Research and Practice Meet, highlights how AI technologies are transforming the way we design, study, and experience games. We welcome contributions from scholars, developers, educators, and students that advance research, practice, and innovation in AI and games.
+
+The two-day event will feature panel discussions with academic and industry experts on the future of AI in games, alongside interactive demos of projects and prototypes on February 21. On February 22, participants will engage in hands-on workshops led by professionals and educators.
+
+## Submission Categories
+
+**Presentation Submissions**: Submit a 250–500 word abstract outlining the project, research, or practice-based work. Individual or co-authored presentations are welcome. Works-in-progress and emerging research are encouraged.
+
+**Workshop Submissions**: Submit a 500-word abstract describing the workshop’s motivation and goals, the intended themes or skills addressed, the structure of activities, and any technical or material needs. Workshops may include design activities, game jams, prototyping, or tool demonstrations.
+
+**Poster Submissions**: Submit a 250–300 word abstract summarizing research-in-progress, preliminary results, or innovative ideas suited for visual presentation. Posters should highlight key arguments, findings, or designs in a concise format that facilitates discussion. Accepted posters will be displayed throughout the conference, and at least one author must be present during the designated poster session.
+
+**Demo Submissions**: Demonstration stations are available for standalone presentations or to augment any of the submission categories above. Hands-on experiences are especially encouraged. Submit a 250-word abstract describing the demo, whether a game, prototype, tool, or interactive narrative. If possible, include a link to a short video (up to three minutes) that showcases the work.
+
+Accepted papers will be presented at the conference and included in the conference proceedings.
+
+### Suggested Themes
+
+- Generative AI in design and narrative
+- Reinforcement learning and emergent play
+- Novel applications of AI in games
+- Ethics and responsible AI
+- Adaptive gameplay and accessibility
+- Procedural generation and simulation
+- AI in education and training
+- Machine learning for game development
+- Data, analytics, and player research
+- In-Game AI as NPC, Final Boss, Game Master
+- Runtime AI in social and multiplayer games
+- AI in production pipelines
+- AI for playtesting and balancing
+- Industry disruption and  workforce displacement
+- Student innovation in AI and games
+
+### Submission deadline: October 19, 2025
+
