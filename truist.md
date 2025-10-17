@@ -9,6 +9,7 @@
 - **Led UI Angular development and Agile project delivery** for the new commercial banking portal supporting the merger
 
 ### **Technical Architecture & Development**
+- **Developed** code modules, components, services and templates in Angular 9-11.
 - **Built Angular modules**, established Swagger API contracts, and ensured smooth service integration
 - **Authored Swagger API contracts** and coordinated role management and workflow features across multiple teams
 - **Defined architecture** and delivered secure **user administration and login modules**
