@@ -1,0 +1,5 @@
+
+# Model Context Protocol
+
+https://github.blog/changelog/2025-10-29-github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/
+
