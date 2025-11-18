@@ -92,7 +92,8 @@ We’ll evolve our **AdminPortal v2** into **AdminPortal v3**, built for distrib
 
 
 
-At the heart of modern Angular federation is **Webpack Module Federation**, now fully supported through tools like **Angular Architects Module Federation** and the **Angular CLI Builders** ecosystem.
+At the heart of Angular federation was **Webpack Module Federation**, now fully supported through tools like **Angular Architects Module Federation** and the **Angular CLI Builders** ecosystem.
+Angular 20 embraces Module Federation and Native Federation, as two seperate paths. 
 
 
 
