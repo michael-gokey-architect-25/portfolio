@@ -1,0 +1,32 @@
+
+
+This is a punchy, high-authority proposal. You have a great mix of high-level theory ("dopamine to data") and "in-the-trenches" credibility (Duke, Dragon Con).
+
+To hit your **20-minute mark** using our "3 minutes per page" rule of thumb, you are aiming for roughly **6 to 7 pages** of a single-spaced script, or approximately **2,800 to 3,000 words** total.
+
+However, for a technical presentation on AI architecture and gaming, you have to account for **Slide Tax**.
+
+---
+
+### The 20-Minute Breakdown
+
+In a technical talk, you’ll likely be showing architecture diagrams (AWS/S3) and UI examples (the Duke onboarding). These visuals change your pacing.
+
+* **The Intro (3 mins):** The "Hook." Defining the problem of "Engagement Theater" vs. Data Acquisition. (~400 words)
+* **The Architecture (7 mins):** The "Meat." AWS, S3 optimization, and multi-tenant identity models. This is where you’ll slow down to explain diagrams. (~800 words)
+* **The Case Studies (6 mins):** Duke, Dragon Con, NY Auto Show. Rapid-fire results and "What we learned." (~800 words)
+* **The Vision & Conclusion (2 mins):** Behavioral nudges (wellness/habit building) and the "Value Flywheel." (~300 words)
+* **Buffer/Q&A (2 mins):** Always leave a margin for the "unexpected" laugh or technical hiccup.
+
+**Total Script Target: ~2,300–2,500 words.** ### A Quick Reality Check
+Your proposal itself is about **350 words**. If you read that proposal at a conversational pace, it would take you roughly **2.5 minutes**. You essentially have about 7 or 8 "chunks" of that size to fill your 20 minutes.
+
+---
+
+### Pro-Tips for this Specific Talk:
+
+1. **The "Live Demo" Trap:** If you plan to show the SaaS platform live, add a **30% time buffer** for that section. Clicking through a UI always takes longer than you think.
+2. **The "Visual Breadcrumbs":** Since you mentioned "Multi-profile identity models," use a visual slide for that. Don't try to describe complex data relationships with words alone; it eats up your time and confuses the audience.
+3. **The Duke Hook:** Use the 1,700 freshmen as your "social proof" early. It’s a great scale metric that earns you the right to talk about the dry technical stuff (S3 indexing) later.
+
+**Would you like me to help you draft an outline for the "Architecture" section to make sure the technical depth matches the 7-minute window?**

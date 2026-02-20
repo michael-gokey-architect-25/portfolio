@@ -1,0 +1,19 @@
+
+
+The seven primary gamification techniques are:
+
+**Points** - Numerical rewards given for completing actions or achieving goals, providing immediate feedback and a sense of progress.
+
+**Badges** - Visual symbols or achievements that recognize accomplishments and milestone completion, often displayed on profiles.
+
+**Leaderboards** - Rankings that compare performance among participants, fostering competition and social comparison.
+
+**Challenges/Quests** - Structured tasks or missions that provide clear objectives and narrative context for engagement.
+
+**Levels** - Progressive stages that unlock as users advance, creating a sense of growth and mastery over time.
+
+**Progress Bars** - Visual indicators showing advancement toward goals, which motivate completion through the "endowed progress effect."
+
+**Rewards/Prizes** - Tangible or virtual incentives earned through participation, which can include unlocks, currency, or real-world benefits.
+
+These techniques tap into psychological motivators like achievement, competition, status, and goal completion. They're commonly used in apps, learning platforms, fitness trackers, and workplace systems to increase engagement and drive desired behaviors. The most effective gamification strategies typically combine multiple techniques rather than relying on just one.

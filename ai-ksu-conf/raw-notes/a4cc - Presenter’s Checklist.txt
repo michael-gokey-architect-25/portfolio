@@ -1,0 +1,62 @@
+
+
+Presenter’s Checklist
+
+
+
+This checklist is designed to help you navigate the **2,800-word script** while managing your slides and audience engagement. Since you are speaking to a mix of gamers and architects, the key is to balance "high-energy" storytelling with "deep-dive" technical transitions.
+
+---
+
+### **Presenter’s Checklist: From Dopamine to Data**
+
+#### **Phase 1: The Hook (0:00 – 4:00)**
+
+* **Slide 1: Title & Vision.** (High-impact visual)
+* **Slide 2: Engagement Theater.** (The "Patronizing Gold Star" vs. "Real Fun")
+* **Action:** Open with the "Dopamine to Data" hook. Establish candor by calling out bad gamification.
+* **Goal:** Get the gamers nodding in agreement.
+
+#### **Phase 2: The Seven Sensors (4:00 – 9:00)**
+
+* **Slide 3: The 7 Sensors Overview.**
+* **Slides 4–7: Deep Dives (Quests, Badges, Leaderboards, Rewards).**
+* *Tip:* Use the "Split Screen" visual (Fun vs. Data) for these slides.
+
+
+* **Slide 8: The Remaining 3 (Points, Levels, Progress Bars).**
+* **Action:** Pivot from "Game Mechanics" to "Behavioral Sensors." Explain that if the fun stops, the sensors go dark.
+* **Goal:** Bridge the gap between psychology and engineering.
+
+#### **Phase 3: The Franchise Case Study (9:00 – 13:00)**
+
+* **Slide 9: The Charlotte Model (NASCAR/MLB).**
+* **Slide 10: Geofencing & Persona Switching.**
+* **Slide 11: The Revenue Loop.** (The "Hot Dog" Reward Strategy)
+* **Action:** Tell the story of the fan at the speedway. Use the "Off-Season" transition to show year-round ROI.
+* **Goal:** Prove the business value (The "Paying the Bills" part).
+
+#### **Phase 4: The Tech Deep-Dive (13:00 – 18:00)**
+
+* **Slide 12: The AWS Refinery.** (The High-Level Architecture)
+* **Slide 13: The S3 Index & Partitioning.** (Show the folder structure logic)
+* **Slide 14: The AI Brain vs. Voice.** (SageMaker RL vs. Bedrock LLM)
+* **Action:** This is your "Architect's Peak." Speak to the 1,700-user concurrency at Duke and the sub-second latency of Redis.
+* **Goal:** Establish technical authority.
+
+#### **Phase 5: The Closing (18:00 – 20:00)**
+
+* **Slide 15: The Value Flywheel.**
+* **Slide 16: Summary & Call to Action.**
+* **Action:** Bring it home. Reiterate that we are trading a world-class experience for world-class insights.
+* **Goal:** Leave them inspired by the scale and the "fairness" of the system.
+
+---
+
+### **Technical Setup Tips:**
+
+* **The "Script Buffer":** 2,800 words is roughly 140 words per minute. This is a brisk but professional pace. If you find yourself running over during practice, cut the "Sensor" descriptions first, as the "Architecture" and "Case Study" are your highest-value sections.
+* **Visual Transitions:** Every time you mention "The AI," ensure your slide has a "Smart Engine" icon. Consistency in icons helps the audience track complex ideas.
+* **The "Demo" Moment:** If you have a phone in hand, trigger a "Badge" notification during the Section 2 talk—it’s a great piece of stagecraft.
+
+**Would you like me to create a 1-page "Executive Summary" handout that you can give to the stakeholders after the talk?**

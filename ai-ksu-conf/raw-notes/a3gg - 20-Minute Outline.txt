@@ -1,0 +1,53 @@
+
+To hit a **20-minute** presentation slot with a comfortable, professional cadence (accounting for slides, pauses, and audience reaction), we are looking at:
+
+* **Total Page Count:** **6 to 7 pages** (Single-spaced, 1" margins, 12pt font).
+* **Total Word Count:** **~2,500 – 2,800 words.**
+
+If you use a "Speech Format" (14pt font, double-spaced to make it readable at a podium), that expands to about **10–12 pages**, but the word count remains the same.
+
+---
+
+### The 20-Minute "Dopamine to Data" Outline
+
+Here is how to distribute those 7 pages across your presentation to ensure you don’t rush the technical "meat" or drag the intro.
+
+#### I. The Hook: Engagement Theater vs. Reality (1.5 Pages / 4 Mins)
+
+* **The Problem:** Why "Points for the sake of Points" fails.
+* **The Thesis:** Gamification isn't UI decoration; it’s a **Behavioral Data Sensor**.
+* **The Vision:** Turning dopamine (user joy) into high-fidelity data (business value).
+
+#### II. The Framework: The 7 Sensors (1 Page / 3 Mins)
+
+* **The Core Loop:** Defining **Quests** as the primary action.
+* **The Feedback:** How **Badges** (milestones) and **Leaderboards** (social proof) wrap around the quest.
+* **The Gamer’s Perspective:** Why this loop is inherently "fun" and avoids the "surveillance" feel.
+
+#### III. The Architecture: Deep Dive (2.5 Pages / 7 Mins)
+
+* **The Pipeline:** From "Quest Start" event to S3 optimized writes.
+* **Infrastructure-as-Code:** How you scaled for 1,700 Duke Freshmen using AWS/Terraform.
+* **The Identity Model:** Handling multi-tenant personas (Professional vs. Human) without losing the AI's "thread."
+* **The "Inference Gap":** Real-time feedback (Badges) vs. Batch processing (AI Insights).
+
+#### IV. Case Studies: Proof of Life (1 Page / 4 Mins)
+
+* **The Duke Orientation:** Scaling to 1,700 users simultaneously.
+* **Dragon Con / NY Auto Show:** Navigating physical spaces using digital nudges.
+* **Health & Wellness:** Transitioning from "Convention Quests" to "Healthy Habit Quests."
+
+#### V. The Closing: The Value Flywheel (0.5-1 Page / 2 Mins)
+
+* **The Payoff:** How the data pays the bills (Personalization, Prediction, Profit).
+* **Summary:** Gamification as a sophisticated behavioral system.
+* **Final Thought:** The future of AI-driven incentive design.
+
+---
+
+### Technical Constraints for your Script
+
+* **Slide Count:** Aim for **15–20 slides**. If you have more than one slide per minute, you’ll spend more time clicking than talking.
+* **The "Slide Tax":** For every complex architecture diagram you show, subtract **50 words** from that page. You need the "silence" to let the audience look at the diagram.
+
+**Would you like me to start drafting the "Hook" (Section I) to set that high-authority tone right out of the gate?**
